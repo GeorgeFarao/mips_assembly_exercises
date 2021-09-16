@@ -2,7 +2,7 @@
 
 Various exercises in the MIPS Assembly Language.
 
-* _%_in_str.s__: places % symbol in each character of a string.
+* _\%_in_str.s__: places % symbol in each character of a string.
 * __8_to_2.s__: converts an octal to binary by reading it's bytes.
 * __all_to_uper__: converts all lowercase letters to uppercase.
 * __base_n_convert.s__: converts a number from base n(given by the user) to decimal.
@@ -51,5 +51,24 @@ Various exercises in the MIPS Assembly Language.
 * __print_fraction.s__: prints fraction of a floating point number.
 * __print_ieee.s__: prints a floating point number in IEEE 754.
 * __print_int_bit.s__: prints and int bit by bit.
-* __
-
+* __print_pairs_from_str.s__: prints first and last letter of string as pairs, then second and second from end and so on.
+* __pyramid.s__: prints a string as pyramid and reverse pyramid.
+* __pythogoras.s__: finds if the theorem of Pythagoras is true for a triangle.
+* __read_double.s__: reads double and counts zeros in it's exponent.
+* __read_floats.s__: reads float and checks if it's greater or lower than 1000.0.
+* __read_sp_and_print.s__: prints a character from a string each time it reads space.
+* __rectangle.s__: calculates the volume and the area of a rectangle.
+* __remove_spaces.s__: removes spaces from a string.
+* __res_from_bytes.s__: reads a number, splits it into four bytes and finds the largest one, the smallest one, their sum and their mean.
+* __reverse_reg_stack.s__: recerses the values of five registers using the stack.
+* __reverse_str.s__: reverses a string.
+* __rottate_bits.s__: rottates the bits of a number( like rol or ror).
+* __rottate_str.s__ & __rottate_str_reverse.s__: rottate the letters of a string.
+* __scale.s__: prints a string as a ladder.
+* __skip_one_char.s__: reads number n and print a string skipping it's n-th character.
+* __star_in_str.s__: prints string a loop placing a * in each character of a string.
+* __star_end_of_str.s__: reads number n and prints a string placing stars(\*) after it's n-th bit.
+* __str_dec_to_bi.s__: convert a decimal number given as string to binary.
+* __string_as_pyramid.s__: prints string as pyramid.
+* __sum_of_squares.s__: calculates the sum of squares.
+* __xnor.s__: calculates the logical XNOR between two nunbers.
